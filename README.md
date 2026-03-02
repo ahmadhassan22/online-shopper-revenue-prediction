@@ -32,6 +32,13 @@ This project uses a Decision Tree classifier to predict whether an online shoppe
 - Best cross-validated F1 (GridSearchCV): ~0.66
 - Test F1 score for purchase class: ~0.64
 
+## Project Structure
+
+- shopper_tree_model.ipynb → Main notebook
+- shop_smart_ecommerce.csv → Dataset
+- requirements.txt → Dependencies
+- .gitignore → Ignored files configuration
+
 ## How to run
 
 ```bash
